@@ -1,8 +1,14 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcoral;
+    border-left: 30px dotted #dd0d41;
+    border-right: 30px dotted #dd0d41;
+    font-family: "Gill Sans", sans-serif;
     text-align: center;
+
+    
 }
 
+
 img {
-    height: 100px;
+    height: 280px;
 }
